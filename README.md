@@ -14,21 +14,3 @@ Head over to www.patreon.com/RedSmileyFace where you will find 3 Tiers of Patron
 |    Private Discord access    |    Private Discord access    |    Private Discord access    |
 |  Exclusive Patron Only Chat  |  Exclusive Patron Only Chat  |  Exclusive Patron Only Chat  |
 |                              |        **Custom Mug**        | **Custom T-Shirt or Hoodie** |
-
-
-### Tier 1
- - Exclusive Access to Projects 
- - Private Discord access
- - Exclusive Patron Only Chat
- 
-### Tier 2
- - Exclusive Access to Projects 
- - Private Discord access
- - Exclusive Patron Only Chat
- - **Custom Mug**
- 
-### Tier 3
- - Exclusive Access to Projects 
- - Private Discord access
- - Exclusive Patron Only Chat
- - **Custom T-Shirt or Hoodie**
