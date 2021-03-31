@@ -1,4 +1,4 @@
-
+![enter image description here](https://raw.githubusercontent.com/RedSmileyFace/RedSmileyFace/main/Header.png)
 ### Who Am I?
 I am a game developer and a professional minecraft developer and builder. Starting off my developmeny career at 14 years old I have slowly learned new techniques and ways to display and create new work with one of a kind content. I am currently working on a video game developed using unreal engine 4 and am continsouly building maps for fellow minecraft creators and influencers.
 
@@ -14,3 +14,21 @@ Head over to www.patreon.com/RedSmileyFace where you will find 3 Tiers of Patron
 |    Private Discord access    |    Private Discord access    |    Private Discord access    |
 |  Exclusive Patron Only Chat  |  Exclusive Patron Only Chat  |  Exclusive Patron Only Chat  |
 |                              |        **Custom Mug**        | **Custom T-Shirt or Hoodie** |
+
+
+### Tier 1
+ - Exclusive Access to Projects 
+ - Private Discord access
+ - Exclusive Patron Only Chat
+ 
+### Tier 2
+ - Exclusive Access to Projects 
+ - Private Discord access
+ - Exclusive Patron Only Chat
+ - **Custom Mug**
+ 
+### Tier 3
+ - Exclusive Access to Projects 
+ - Private Discord access
+ - Exclusive Patron Only Chat
+ - **Custom T-Shirt or Hoodie**
