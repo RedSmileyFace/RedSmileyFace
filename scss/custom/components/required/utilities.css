@@ -1,0 +1,20 @@
+/* Error: Undefined mixin.
+ *    ,
+ * 14 | / @include media-breakpoint-up(lg){
+ * 15 | |   .o-lg-visible{
+ * 16 | |     overflow: visible;
+ * 17 | |   }
+ * 18 | \ }
+ *    '
+ *   scss\custom\components\required\utilities.scss 14:1  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a    \2577 \a 14 \2502  \250c  @include media-breakpoint-up(lg){\a 15 \2502  \2502    .o-lg-visible{\a 16 \2502  \2502      overflow: visible;\a 17 \2502  \2502    }\a 18 \2502  \2514  }\a    \2575 \a   scss\\custom\\components\\required\\utilities.scss 14:1  root stylesheet";
+}

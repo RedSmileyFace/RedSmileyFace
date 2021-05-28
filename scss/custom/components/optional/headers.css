@@ -1,0 +1,27 @@
+/* Error: Undefined mixin.
+ *    ,
+ * 17 | / @include media-breakpoint-up(md){
+ * 18 | |   .header-desktop-app{
+ * 19 | |     .row:last-of-type{
+ * 20 | |       margin-bottom: -$spacer*15;
+ * 21 | |       z-index: 2;
+ * 22 | |       position: relative;
+ * 23 | |     }
+ * 24 | |     +section{
+ * 25 | |       padding-top: $spacer*15;
+ * 26 | |     }
+ * 27 | |   }
+ * 28 | \ }
+ *    '
+ *   scss\custom\components\optional\headers.scss 17:1  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a    \2577 \a 17 \2502  \250c  @include media-breakpoint-up(md){\a 18 \2502  \2502    .header-desktop-app{\a 19 \2502  \2502      .row:last-of-type{\a 20 \2502  \2502        margin-bottom: -$spacer*15;\a 21 \2502  \2502        z-index: 2;\a 22 \2502  \2502        position: relative;\a 23 \2502  \2502      }\a 24 \2502  \2502      +section{\a 25 \2502  \2502        padding-top: $spacer*15;\a 26 \2502  \2502      }\a 27 \2502  \2502    }\a 28 \2502  \2514  }\a    \2575 \a   scss\\custom\\components\\optional\\headers.scss 17:1  root stylesheet";
+}

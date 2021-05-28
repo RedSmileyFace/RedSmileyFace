@@ -1,0 +1,9 @@
+img[class*=flex-][class*=-grow-1] {
+  object-fit: cover;
+}
+
+img {
+  max-width: 100%;
+}
+
+/*# sourceMappingURL=images.css.map */

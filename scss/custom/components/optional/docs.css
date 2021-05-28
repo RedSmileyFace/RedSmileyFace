@@ -1,0 +1,27 @@
+/* Error: Undefined mixin.
+ *    ,
+ * 9  | / @include media-breakpoint-up(md){
+ * 10 | |     .docs-sidebar{
+ * 11 | |         height: $docs-layout-height;
+ * 12 | |         overflow-y: scroll;
+ * 13 | |         position: -webkit-sticky;
+ * 14 | |         position: sticky;
+ * 15 | |         top: 4.5625rem;
+ * 16 | |     }
+ * 17 | |     #docs-index{
+ * 18 | |         display: block !important;
+ * 19 | |     }
+ * 20 | \ }
+ *    '
+ *   scss\custom\components\optional\docs.scss 9:1  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Undefined mixin.\a    \2577 \a 9  \2502  \250c  @include media-breakpoint-up(md){\a 10 \2502  \2502      .docs-sidebar{\a 11 \2502  \2502          height: $docs-layout-height;\a 12 \2502  \2502          overflow-y: scroll;\a 13 \2502  \2502          position: -webkit-sticky;\a 14 \2502  \2502          position: sticky;\a 15 \2502  \2502          top: 4.5625rem;\a 16 \2502  \2502      }\a 17 \2502  \2502      #docs-index{\a 18 \2502  \2502          display: block !important;\a 19 \2502  \2502      }\a 20 \2502  \2514  }\a    \2575 \a   scss\\custom\\components\\optional\\docs.scss 9:1  root stylesheet";
+}

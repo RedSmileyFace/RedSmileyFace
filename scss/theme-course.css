@@ -1,0 +1,19 @@
+/* Error: Can't find stylesheet to import.
+ *   ,
+ * 7 | @import "CSS:../../components/plugins/inter-ui";
+ *   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ *   '
+ *   scss\custom\components\required\typography.scss 7:9  @import
+ *   scss\custom\components.scss 23:9                     @import
+ *   scss\theme-course.scss 9:9                           root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a   \2577 \a 7 \2502  @import \"CSS:../../components/plugins/inter-ui\";\a   \2502          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   scss\\custom\\components\\required\\typography.scss 7:9  @import\a   scss\\custom\\components.scss 23:9                     @import\a   scss\\theme-course.scss 9:9                           root stylesheet";
+}
