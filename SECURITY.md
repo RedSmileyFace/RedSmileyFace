@@ -1,6 +1,6 @@
 
 # Security Policy
-## Provided by Cloudflare
+### Provided by Cloudflare
 
 This Privacy Policy is effective as of October 27, 2020.
 
