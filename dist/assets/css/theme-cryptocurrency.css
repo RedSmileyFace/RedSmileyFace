@@ -14227,3 +14227,31 @@ article table {
   opacity: 0; }
 
 /*# sourceMappingURL=theme-cryptocurrency.css.map */
+.bg-primary-3 {
+	background-color: #057b22 !important;
+}
+svg.bg-primary-2 * {
+	fill: #245512 !important;
+}
+.navbar-dark .navbar-brand {
+	color: #fff;
+	width: 12%;
+}
+.btn.btn-lg.btn-primary {
+	background: #d48a00;
+	border-color: #d48a00;
+}
+.btn.btn-lg.btn-primary:hover {
+	background: #744b00;
+	border-color: #744b00;
+}
+.progress-bar {
+  background-color: #d48a00;
+}
+.navbar.navbar-expand-lg.justify-content-between.navbar-dark.border-bottom-0.bg-primary-3.position-fixed {
+	background-color: #026202 !important;
+}
+.badge-primary {
+	color: #fff;
+	background-color: #d48a00;
+}
