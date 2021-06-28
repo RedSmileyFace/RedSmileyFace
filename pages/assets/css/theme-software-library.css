@@ -14238,7 +14238,7 @@ article table {
 }
 .navbar-light .navbar-brand {
   color: #495057;
-  width: 12%;
+  width: 35px;
 }
 .btn.btn-primary:hover {
 	color: #fff;
@@ -14298,4 +14298,36 @@ footer {
 .btn .btn-red:hover {
   background-color: #951919;
   border-color: #951919;
+}
+.navbar-dark .navbar-brand {
+	color: #fff;
+	width: 35px;
+}
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+	color: rgba(0, 0, 0, 0.75);
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(51, 51, 51, 0.75);
+}
+.btn.btn-white.ml-lg-3:hover {
+	background: #951919 !important;
+}
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+	color: rgba(51, 51, 51, 0.75);
+}
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+	color: #fff;
+	background-color: #951919;
+	border-color: #951919;
+}
+.navbar[data-sticky="top"].scrolled.navbar-dark {
+	background: #fff;
+	border-bottom-color: rgba(255, 255, 255, 0);
+}
+.list-group-item-action {
+	color: #c32324;
+	text-align: inherit;
+}
+svg.icon * {
+	fill: #c32324;
 }
