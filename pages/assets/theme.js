@@ -1,5 +1,5 @@
 /*!
-  * Leap Bootstrap Theme
+  * RedSmileyFace Theme
   * Copyright 2018-2019 Medium Rare (undefined)
   */
 (function (global, factory) {
