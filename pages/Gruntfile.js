@@ -6,7 +6,7 @@ module.exports = function(grunt) {
                 livereload: true
             },
             tasks: ['browserify'],
-            files: ['src/*.js', 'index.html', 'styles.css', 'Gruntfile.js', 'browserify.js']
+            files: ['src/*.js', 'index', 'styles.css', 'Gruntfile.js', 'browserify.js']
         },
         browserify: {
             'build/<%= pkg.name %>.js': ['browserify.js']
