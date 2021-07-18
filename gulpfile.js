@@ -62,7 +62,8 @@ getPaths = () => {
       liquid: 'pages/**/*.liquid',
       liquidRoot: 'pages/',
       includes: 'pages/include/',
-      layouts: 'pages/layouts'
+      layouts: 'pages/layouts',
+      personal: 'docs/pages/stroie'
     },
     js: {
       all: "js/**/*",
@@ -128,6 +129,7 @@ getPaths = () => {
       fonts: 'docs/assets/fonts',
       video: 'docs/assets/video',
       documentation: 'docs/documentation',
+      personal: 'docs/pages/stroie',
       exclude: ['!**/desktop.ini', '!**/.DS_store'],
     },
     copyDependencies: copyDeps,
