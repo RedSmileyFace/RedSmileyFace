@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="img2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docs/assets/img/DS4Windows (1).zip!/" />
+      <root url="jar://$PROJECT_DIR$/docs/assets/img/DS4Windows.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

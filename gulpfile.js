@@ -63,7 +63,21 @@ getPaths = () => {
       liquidRoot: 'pages/',
       includes: 'pages/include/',
       layouts: 'pages/layouts',
-      personal: 'docs/pages/stroie'
+      personal: 'pages/stroie',
+
+      gameDesign: 'pages/projects/game-design',
+      javaLibrary: 'pages/projects/java-library',
+      levelDesign: 'pages/projects/level-design',
+      modelDesign: 'pages/projects/model-design',
+      other: 'pages/projects/other',
+      serverManagement: 'pages/projects/server-management',
+      storylineWriting: 'pages/projects/storyline-writing',
+      thumbnailDesign: 'pages/projects/thumbnail-design',
+      videoEditing: 'pages/projects/video-editing',
+      webDesign: 'pages/projects/web-design',
+
+      projects: 'docs/projects/**/*'
+
     },
     js: {
       all: "js/**/*",
@@ -129,7 +143,21 @@ getPaths = () => {
       fonts: 'docs/assets/fonts',
       video: 'docs/assets/video',
       documentation: 'docs/documentation',
-      personal: 'docs/pages/stroie',
+      personal: 'docs/stroie',
+
+      gameDesign: 'docs/projects/game-design',
+      javaLibrary: 'docs/projects/java-library',
+      levelDesign: 'docs/projects/level-design',
+      modelDesign: 'docs/projects/model-design',
+      other: 'docs/projects/other',
+      serverManagement: 'docs/projects/server-management',
+      storylineWriting: 'docs/projects/storyline-writing',
+      thumbnailDesign: 'docs/projects/thumbnail-design',
+      videoEditing: 'docs/projects/video-editing',
+      webDesign: 'docs/projects/web-design',
+
+      projects: 'docs/projects/**/*',
+
       exclude: ['!**/desktop.ini', '!**/.DS_store'],
     },
     copyDependencies: copyDeps,
