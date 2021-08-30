@@ -76,7 +76,8 @@ getPaths = () => {
       videoEditing: 'pages/projects/video-editing',
       webDesign: 'pages/projects/web-design',
 
-      projects: 'docs/projects/**/*'
+      projects: 'docs/projects/**/*',
+      projects2: 'docs/projects/*'
 
     },
     js: {
@@ -157,6 +158,7 @@ getPaths = () => {
       webDesign: 'docs/projects/web-design',
 
       projects: 'docs/projects/**/*',
+      projects2: 'docs/projects/*',
 
       exclude: ['!**/desktop.ini', '!**/.DS_store'],
     },

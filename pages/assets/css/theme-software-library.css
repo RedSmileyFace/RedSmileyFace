@@ -1847,11 +1847,11 @@ fieldset:disabled a.btn {
   border-color: #388659; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #2d6b47;
+    background-color: #951919;
     border-color: #296241; }
   .btn-primary:focus, .btn-primary.focus {
     color: #fff;
-    background-color: #2d6b47;
+    background-color: #951919;
     border-color: #296241;
     box-shadow: 0 0 0 0.2rem rgba(86, 152, 114, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
